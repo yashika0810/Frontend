@@ -1,0 +1,6 @@
+function demo(value)
+{
+console.log(value);
+}
+var value='hello';
+demo(value);
